@@ -1,0 +1,68 @@
+Contact Name,ID,ID Type,TS Override
+Sweden,240,Group,Disabled
+Regional SM0,2400,Group,Disabled
+Regional SM1,2401,Group,Disabled
+Regional SM2,2402,Group,Disabled
+Regional SM3,2403,Group,Disabled
+Regional SM4,2404,Group,Disabled
+Regional SM5,2405,Group,Disabled
+Regional SM6,2406,Group,Disabled
+Regional SM7,2407,Group,Disabled
+DCS010D,2410,Group,Disabled
+SM Tac 1,2411,Group,Disabled
+SM Tac 2,2412,Group,Disabled
+DCS010V,2415,Group,Disabled
+Swedenlink,2416,Group,Disabled
+SM XIL,24080,Group,Disabled
+Robost Packet,24098,Group,Disabled
+Normiraringen,24099,Group,Disabled
+Sweden-hub,240216,Group,Disabled
+DCS010B,240240,Group,Disabled
+SK7RFL,240721,Group,Disabled
+SM Openspot,240888,Group,Disabled
+Local,9,Group,Disabled
+Local2,99,Group,Disabled
+Cluster 1,8,Group,Disabled
+Cluster 2,7,Group,Disabled
+Norway,242,Group,Disabled
+Finland,244,Group,Disabled
+Denmark,238,Group,Disabled
+World-wide,91,Group,Disabled
+Europe,92,Group,Disabled
+JOTA,907,Group,Disabled
+JOTA Tac 1,9071,Group,Disabled
+JOTA Tac 2,9072,Group,Disabled
+JOTA Tac 3,9073,Group,Disabled
+JOTA Tac 4,9074,Group,Disabled
+JOTA Tac 5,9075,Group,Disabled
+JOTA Tac 6,9076,Group,Disabled
+JOTA Tac 7,9077,Group,Disabled
+JOTA Tac 8,9078,Group,Disabled
+JOTA SE,240907,Group,Disabled
+English,913,Group,Disabled
+European English,923,Group,Disabled
+Swedish,924,Group,Disabled
+Nordic,927,Group,Disabled
+SOTA,973,Group,Disabled
+W8IRC IRC Chat,98004,Group,Disabled
+Bornhack,23824,Group,Disabled
+Chaoswelle,26223,Group,Disabled
+IP address,9997,Group,Disabled
+Connector,9998,Group,Disabled
+Disconnect,4000,Group,Disabled
+DC7IA Joshua,2624308,Private,Disabled
+OZ3MT Martin,2384315,Private,Disabled
+SA0BSE Elis,2400302,Private,Disabled
+SA0KDR Kenneth,2400256,Private,Disabled
+SA7DSE David,2407321,Private,Disabled
+SA7FSE Franz,2407326,Private,Disabled
+SA7GGO Gustav,2407259,Private,Disabled
+SA7KSE Konrad,2407316,Private,Disabled
+SA7SSE Simon,2407284,Private,Disabled
+SM0DXG Anders,2400229,Private,Disabled
+SM0IWP Tomas,2400313,Private,Disabled
+SM0RGM Stefan,2400278,Private,Disabled
+SM0RUX Pontus,2400029,Private,Disabled
+SM0XMX Ronny,2400059,Private,Disabled
+Radio Test,98,Group,Disabled
+BM Parrot,9990,Private,Disabled
