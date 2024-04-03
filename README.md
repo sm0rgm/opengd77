@@ -17,7 +17,7 @@ SM0RGM Stefan Helander
 
 ## Syfte
 
-Det här är min kodplugg till min OpenGD77. Den är skapad utifrån den kodplugg som vi har tillhandahållit sedan ett antal år tillbaka. Eftersom ingen av oss äger en GD77 är vi beroende av synpunkter och rapporter från dig som använder den. 
+Det här är min kodplugg till min OpenGD77. Den är skapad utifrån den kodplugg som vi har tillhandahållit för Anytone AT-D878UV sedan ett antal år tillbaka. Eftersom ingen av oss äger en GD77 är vi beroende av synpunkter och rapporter från dig som använder den. 
 Huvudsyftet med publiceringen av filerna här på GitHub är att förenkla för mig själv när det gäller uppdateringar. Jag har inget emot att dela med mig av filerna så att andra kan nyttja dem under förutsättning att de som återanvänder mina filer följer licensvillkoren i [GPLv3](https://github.com/sm0rux/opengd77/blob/master/LICENSE).
 
 Om du vill bidra med något så är du naturligtvis välkommen att göra så antingen genom att skapa en Pull Request (kräver en del kunskap om hur GitHub funkar) eller genom att skapa ett [issue](https://github.com/sm0rgm/opengd77/issues).
