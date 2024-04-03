@@ -1,4 +1,4 @@
-# Min kodplugg till Anytone OpenGD77
+# Min kodplugg till OpenGD77
 
 ## Copyright
 
