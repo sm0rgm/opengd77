@@ -30,7 +30,7 @@ Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk
 
 Vid konverteringen från Anytone till OpenGD77 så finns vissa begränsningar som man behöver ta hänsyn till.
 
-* TG List i GD77 (motsvaras av Receive Group List i Anytone) är begränsad till 32 talgrupper så vi har valt de vanligaste i OpenGD77-versioner.
+* TG List i GD77 (motsvaras av Receive Group List i Anytone) är begränsad till 32 talgrupper så vi har valt de vanligaste i OpenGD77-versionen.
 * Anytone har stöd för kanaler med både Analog och Digital sändning. I OpenGD77 kan en kanal vara antingen Analog eller Digital. Därför har vi konverterat dessa kanaler så här:
     * Anytone A+D TX A -> GD77 Analog
     * Anytone D+A TX D -> GD77 Digital
@@ -45,7 +45,7 @@ CSV-filerna kan du använda om du har en befintlig radio eller kodplugg som du v
 
 Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.g77.
 
-Starta CPS-programmet och välj File -> Open och välj N0CALL.g77. Gå till fliken DMR ID and callsign och ändra Callsign och dina egna. Sedan är det bara att skjuta i kodpluggen i radion (välj COM-port och sedan Write to radio).
+Starta CPS-programmet och välj File -> Open och välj N0CALL.g77. Gå till fliken DMR ID and callsign och ändra Callsign och DMR ID till och dina egna. Sedan är det bara att skjuta i kodpluggen i radion.
 
 Sedan vill du antagligen också gå till Extras -> Download callsign database och ladda ner callsigns från [radioid.net](https://radioid.net) för i alla fall region 240. Vill du ha fler regioner kan du gå till radioid.net, skapa ett konto och generera en kontaktlista över de regioner du önskar och instället importera dem med Import CSV.
 
