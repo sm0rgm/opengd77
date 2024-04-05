@@ -55,7 +55,7 @@ Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att
 
 Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta resterande inställning vara som de är kan du, istället öppna din befintliga kodplugg i CPS och sedan gå till File -> CSV -> Import CSV och välj sedan mappen CSV. 
 
-73's de SM0RUX Pontus / SM0RGM Stefan
+73's de SM0RGM Stefan es SM0RUX Pontus
 
 2024-04-03
 
