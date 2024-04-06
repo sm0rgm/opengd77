@@ -45,7 +45,8 @@ CSV-filerna kan du använda om du har en befintlig radio eller kodplugg som du v
 
 Om du snabbt och enkelt vill starta en ny kodplugg eller koda upp en ny radio så finns det en färdig fil med alla inställningar gjorda som heter N0CALL.g77.
 
-Starta CPS-programmet och välj File -> Open och välj N0CALL.g77. Gå till fliken DMR ID and callsign och ändra Callsign och DMR ID till och dina egna. Sedan är det bara att skjuta i kodpluggen i radion.
+Starta CPS-programmet och välj File -> Open och välj N0CALL.g77. Gå till fliken DMR ID and callsign och ändra Callsign och DMR ID till och dina egna. Gå också in i fliken Boot screen och ändra Line 1 till ditt callsign och Line 2 till ditt namn eftersom dessa används som Talker Alias. 
+Sedan är det bara att skjuta i kodpluggen i radion.
 
 Sedan vill du antagligen också gå till Extras -> Download callsign database och ladda ner callsigns från [radioid.net](https://radioid.net) för i alla fall region 240. Vill du ha fler regioner kan du gå till radioid.net, skapa ett konto och generera en kontaktlista över de regioner du önskar och instället importera dem med Import CSV.
 
