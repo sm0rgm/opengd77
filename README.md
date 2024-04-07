@@ -40,6 +40,14 @@ Vid konverteringen från Anytone till OpenGD77 så finns vissa begränsningar so
     * Anytone High  -> OpenGD77 P5
     * Anytone Turbo -> OpenGD77 P9
 
+### Vilka radiomodeller är kodpluggen testad med?
+
+OpenGD77 fungerar med en rad olika typer av radioapparater. Vi har fått rapporter om att kodpluggen är testad med följande radiomodeller:
+
+* Radioddity GD77
+
+Om du använder kodpluggen på en annan radiomodell än ovan, berätta det gärna för oss som en issue eller via ett mail till mig så lägger jag till det i listan. Ta också gärna en bild av radions display med kodpluggen och skicka med så kan vi få en uppfattning om hur det ser ut på olika radiomodeller.
+
 ### Vilka filer ska du hämta?
 
 Jag rekommenderar att du hämtar filerna som jag har packat ihop i en [release](https://github.com/sm0rgm/opengd77/releases) istället för att hämta mina arbetsfiler!
