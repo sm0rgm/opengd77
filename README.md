@@ -32,8 +32,13 @@ Vid konverteringen från Anytone till OpenGD77 så finns vissa begränsningar so
 
 * TG List i GD77 (motsvaras av Receive Group List i Anytone) är begränsad till 32 talgrupper så vi har valt de vanligaste i OpenGD77-versionen.
 * Anytone har stöd för kanaler med både Analog och Digital sändning. I OpenGD77 kan en kanal vara antingen Analog eller Digital. Därför har vi konverterat dessa kanaler så här:
-    * Anytone A+D TX A -> GD77 Analog
-    * Anytone D+A TX D -> GD77 Digital
+    * Anytone A+D TX A -> OpenGD77 Analog
+    * Anytone D+A TX D -> OpenGD77 Digital
+* Effektlägen har konverterats så här:
+    * Anytone Low   -> OpenGD77 P1
+    * Anytone Mid   -> OpenGD77 P3
+    * Anytone High  -> OpenGD77 P5
+    * Anytone Turbo -> OpenGD77 P9
 
 ### Vilka filer ska du hämta?
 
