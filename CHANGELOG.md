@@ -12,6 +12,7 @@ Release som "BETA 3". Ändringar:
 * TG list = Default, Contact = None för alla kanaler (man kan antingen ha TG List eller Contact vald, inte både och)
 * TalkerAlias = Text för både TS1 och TS2 för samtliga digitala kanaler (hämtar Line 1 och Line från Boot screen).
 * Longitude och Latitude satt till 0 och 0 för samtliga kanaler för att förhindra att radion rapporterar avstånd till repeatern (i framtida versioner kommer verkliga positioner att läggas in för repeatrar om dessa är kända).
+* Brottby 2 434.800 FM 77 Hz subton
 
 Stort tack till SA0BUX Lars och SM0IKR Göran för tester, synpunkter, tips och rapporter.
 
