@@ -34,17 +34,14 @@ Vid konverteringen från Anytone till OpenGD77 så finns vissa begränsningar so
 * Anytone har stöd för kanaler med både Analog och Digital sändning. I OpenGD77 kan en kanal vara antingen Analog eller Digital. Därför har vi konverterat dessa kanaler så här:
     * Anytone A+D TX A -> OpenGD77 Analog
     * Anytone D+A TX D -> OpenGD77 Digital
-* Effektlägen har konverterats så här:
-    * Anytone Low   -> OpenGD77 P1
-    * Anytone Mid   -> OpenGD77 P3
-    * Anytone High  -> OpenGD77 P5
-    * Anytone Turbo -> OpenGD77 P9
+* OpenGD77 har en övergripande effektinställning som kallas Master. Den har valts för samtliga kanaler utom kanalerna för hotspots där lägsta effektläge (P1) har valts.
 
 ### Vilka radiomodeller är kodpluggen testad med?
 
 OpenGD77 fungerar med en rad olika typer av radioapparater. Vi har fått rapporter om att kodpluggen är testad med följande radiomodeller:
 
 * Radioddity GD77
+* Retevis RT3S
 
 Om du använder kodpluggen på en annan radiomodell än ovan, berätta det gärna för oss som en issue eller via ett mail till mig så lägger jag till det i listan. Ta också gärna en bild av radions display med kodpluggen och skicka med så kan vi få en uppfattning om hur det ser ut på olika radiomodeller.
 
@@ -68,8 +65,9 @@ Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att
 ### Uppdatera befintlig kodplugg
 
 Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta resterande inställning vara som de är kan du, istället öppna din befintliga kodplugg i CPS och sedan gå till File -> CSV -> Import CSV och välj sedan mappen CSV. 
+Stort tack till SA0BUX Lars för lån av en radio med OpenGD77 så att jag kunde testa kodpluggen!
 
 73's de SM0RGM Stefan es SM0RUX Pontus
 
-2024-04-03
+2024-04-14
 
