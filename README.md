@@ -66,6 +66,7 @@ Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att
 ### Uppdatera befintlig kodplugg
 
 Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta resterande inställning vara som de är kan du, istället öppna din befintliga kodplugg i CPS och sedan gå till File -> CSV -> Import CSV och välj sedan mappen CSV. 
+
 Stort tack till SA0BUX Lars för lån av en radio med OpenGD77 så att jag kunde testa kodpluggen!
 
 73's de SM0RGM Stefan es SM0RUX Pontus
