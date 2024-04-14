@@ -26,6 +26,8 @@ Om du vill bidra med något så är du naturligtvis välkommen att göra så ant
 
 Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk6ba.se](https://sk6ba.se/repeater/karta/)). Även repeatrar som kör exempelvis C4FM och FM finns med. Repeatrarna är indelade distriksvis. Tyvärr finns det så många repeatrar i sjätte och sjunde distrikten att alla inte får plats i scanning-listan (Anytone).
 
+Dessa filer är testade med CPS Version: R2024.04.12.01
+
 ### Vad ändras vid konverteringen från Anytone till OpenGD77?
 
 Vid konverteringen från Anytone till OpenGD77 så finns vissa begränsningar som man behöver ta hänsyn till.
@@ -62,6 +64,17 @@ Sedan är det bara att skjuta i kodpluggen i radion.
 Sedan vill du antagligen också gå till Extras -> Download callsign database och ladda ner callsigns från [radioid.net](https://radioid.net) för i alla fall region 240. Vill du ha fler regioner kan du gå till radioid.net, skapa ett konto och generera en kontaktlista över de regioner du önskar och instället importera dem med Import CSV.
 
 Förmodligen vill du ändra på fler saker, men det överlåter jag till dig att fixa med själv.
+
+### Om du inte kan importera CSV-filerna
+
+Beroende på olika datorers inställningar för teckenkodning kan de resulterande CSV-filerna bli olika med avseende på tecken för decimalkomma mm (i vissa fall blir det "." och i andra "," i CSV-filerna. 
+
+Om du får felmeddelande när du försöker importera mina CSV-filer, gör då så här:
+
+* Öppna filen N0CALL.g77 i CPS i din dator
+* Välj File -> CSV -> Export och välj en lämplig mapp att spara CSV-filerna i
+* Öppna din egen sparade kodplugg i CPS
+* Välj File -> CSV -> Import och välj mappen där du just sparade exporten
 
 ### Uppdatera befintlig kodplugg
 
