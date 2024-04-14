@@ -35,6 +35,7 @@ Vid konverteringen från Anytone till OpenGD77 så finns vissa begränsningar so
     * Anytone A+D TX A -> OpenGD77 Analog
     * Anytone D+A TX D -> OpenGD77 Digital
 * OpenGD77 har en övergripande effektinställning som kallas Master. Den har valts för samtliga kanaler utom kanalerna för hotspots där lägsta effektläge (P1) har valts.
+* Kanalnummer i OpenGD77 är begränsat till ca 1100 medan i Anytone är 4000. Däröför är kanalnummer i OpenGD77 bara löpande i stigande ordning medan de i Anytone börjar på jämna 100-tal för varje distrikt.
 
 ### Vilka radiomodeller är kodpluggen testad med?
 
