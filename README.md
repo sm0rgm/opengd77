@@ -71,10 +71,12 @@ Beroende på olika datorers inställningar för teckenkodning kan de resulterand
 
 Om du får felmeddelande när du försöker importera mina CSV-filer, gör då så här:
 
+* Starta CPS och läs in din radio
+* Välj File -> Save och spara din nuvarande kodplugg som en .g77-fil
 * Öppna filen N0CALL.g77 i CPS i din dator
 * Välj File -> CSV -> Export och välj en lämplig mapp att spara CSV-filerna i
-* Öppna din egen sparade kodplugg i CPS
-* Välj File -> CSV -> Import och välj mappen där du just sparade exporten
+* Öppna din egen sparade kodplugg i CPS (.g77-fil)
+* Välj File -> CSV -> Import och välj mappen där du nyligen sparade exporten
 
 ### Uppdatera befintlig kodplugg
 
