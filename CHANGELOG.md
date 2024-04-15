@@ -7,6 +7,7 @@ Release som "BETA 4". Ändringar:
 * Alla kanaler har nu effektläge "Master" utom kanalerna för hotspots.
 * Latitude och Longitude hämtade för de flesta repeatrar från SK6BA.
 * APRS 1, APRS 2 och APRS US har nu APRS1 aktiverad.
+* För radioapparater som har stöd för teman finns nu temat SM0RGM.gtm.
 
 ## 2024-04-07 (SM0RGM)
 
