@@ -82,7 +82,9 @@ Om du får felmeddelande när du försöker importera mina CSV-filer, gör då s
 
 Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta resterande inställning vara som de är kan du, istället öppna din befintliga kodplugg i CPS och sedan gå till File -> CSV -> Import CSV och välj sedan mappen CSV. 
 
-Stort tack till SA0BUX Lars för lån av en radio med OpenGD77 så att jag kunde testa kodpluggen!
+Stort tack till SA0BUX Lars för betatestning, tips, råd och inte minst för lån av en radio med OpenGD77 så att jag kunde testa kodpluggen!
+
+Stort tack till SM0IKR Göran för betatestning, tips, råd och förslag.
 
 73's de SM0RGM Stefan es SM0RUX Pontus
 
