@@ -1,6 +1,6 @@
 Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kHz),Colour Code,Timeslot,Contact,TG List,DMR ID,TS1_TA_Tx,TS2_TA_Tx ID,RX Tone,TX Tone,Squelch,Power,Rx Only,Zone Skip,All Skip,TOT,VOX,No Beep,No Eco,APRS,Latitude,Longitude
 1,Botkyrka 2,Digital,	434.87500,	432.87500,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.2507,17.879
-2,Brandbergen,Digital,	434.56250,	432.56250,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.1704,18.1663
+2,Brandbergen,Digital,	434.56250,	432.56250,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0
 3,Brottby 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.5753,18.2634
 4,Brottby 2,Analogue,	434.80000,	432.80000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.5041,18.1378
 5,Dalaro,Digital,	434.83750,	432.83750,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.1353,18.4106
@@ -439,9 +439,9 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 438,	145.225,Analogue,	145.22500,	145.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 439,	145.450,Analogue,	145.45000,	145.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 440,HS DMR,Digital,	434.47500,	434.47500,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0
-441,APRS 1,Analogue,	144.80000,	144.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
-442,APRS 2,Analogue,	432.50000,	432.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
-443,APRS US,Analogue,	144.39000,	144.39000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+441,APRS 1,Analogue,	144.80000,	144.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,APRS1,0,0
+442,APRS 2,Analogue,	432.50000,	432.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,APRS1,0,0
+443,APRS US,Analogue,	144.39000,	144.39000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,APRS1,0,0
 444,PMR 1,Analogue,	446.00625,	446.00625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 445,PMR 2,Analogue,	446.01875,	446.01875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 446,PMR 3,Analogue,	446.03125,	446.03125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
@@ -605,5 +605,9 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 604,Marin-VHF F1,Analogue,	155.62500,	155.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 605,Marin-VHF F2,Analogue,	155.77500,	155.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 606,Marin-VHF F3,Analogue,	155.82500,	155.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
-607,Channel VFO A,Analogue,	145.50000,	145.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
-608,Channel VFO B,Analogue,	433.50000,	433.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+607,Oresundslinjen 1,Analogue,	409.50000,	409.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+608,Oresundslinjen 2,Analogue,	409.25000,	409.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+609,Oresundslinjen 3,Analogue,	440.02500,	440.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+610,Oresundslinjen 4,Analogue,	440.60000,	440.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+611,Oresundslinjen 5,Analogue,	460.15000,	460.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+612,Oresundslinjen 6,Analogue,	468.37500,	468.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
