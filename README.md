@@ -84,7 +84,7 @@ Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta 
 
 ### Tema
 
-För de radiotyper som har stöd för tema (f n MD-9600, RT-90, MD-UV380/RT3S, DM-1701/RT-84, MD-2017/RT-82) så har jag inkluderat mitt eget tema. Filen heter SM0RG.gtm. Eftersom jag tycker det är mer vilsamt för ögonen med svart bakgrund har detta tema det och olika färger har använts för olika funktioner.
+För de radiotyper som har stöd för tema (f n MD-9600, RT-90, MD-UV380/RT3S, DM-1701/RT-84, MD-2017/RT-82) så har jag inkluderat mitt eget tema. Filen heter SM0RGM.gtm. Eftersom jag tycker det är mer vilsamt för ögonen med svart bakgrund har detta tema det och olika färger har använts för olika funktioner.
 
 ### Tack
 
