@@ -82,6 +82,12 @@ Om du får felmeddelande när du försöker importera mina CSV-filer, gör då s
 
 Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta resterande inställning vara som de är kan du, istället öppna din befintliga kodplugg i CPS och sedan gå till File -> CSV -> Import CSV och välj sedan mappen CSV. 
 
+### Tema
+
+För de radiotyper som har stöd för tema (f n MD-9600, RT-90, MD-UV380/RT3S, DM-1701/RT-84, MD-2017/RT-82) så har jag inkluderat mitt eget tema. Filen heter SM0RG.gtm. Eftersom jag tycker det är mer vilsamt för ögonen med svart bakgrund har detta tema det och olika färger har använts för olika funktioner.
+
+### Tack
+
 Stort tack till SA0BUX Lars för betatestning, tips, råd och inte minst för lån av en radio med OpenGD77 så att jag kunde testa kodpluggen!
 
 Stort tack till SM0IKR Göran för betatestning, tips, råd och förslag.
