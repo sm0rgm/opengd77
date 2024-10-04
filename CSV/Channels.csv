@@ -611,3 +611,4 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 610,Oresundslinjen 4,Analogue,	440.60000,	440.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 611,Oresundslinjen 5,Analogue,	460.15000,	460.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
 612,Oresundslinjen 6,Analogue,	468.37500,	468.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0
+613,Haninge 4,Digital,	434.63750,	432.63750,,0,2,None,None,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.17,18.1694
