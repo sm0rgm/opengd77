@@ -1,5 +1,11 @@
 # Changelog
 
+## 2024-10-04 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * SM0
+        * +Haninge 4 434.6375 MHz SK0NN-2
+
 ## 2024-04-15 (SM0RGM)
 
 Release som "BETA 4". Ändringar:
