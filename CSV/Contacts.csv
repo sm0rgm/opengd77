@@ -27,6 +27,8 @@ Cluster 2,7,Group,Disabled
 Norway,242,Group,Disabled
 Finland,244,Group,Disabled
 Denmark,238,Group,Disabled
+Germany,262,Group,Disabled
+Netherlands,204,Group,Disabled
 World-wide,91,Group,Disabled
 Europe,92,Group,Disabled
 JOTA,907,Group,Disabled
@@ -49,7 +51,6 @@ Bornhack,23824,Group,Disabled
 Chaoswelle,26223,Group,Disabled
 IP address,9997,Group,Disabled
 Connector,9998,Group,Disabled
-Disconnect,4000,Group,Disabled
 DC7IA Joshua,2624308,Private,Disabled
 OZ3MT Martin,2384315,Private,Disabled
 SA0BSE Elis,2400302,Private,Disabled
@@ -67,3 +68,4 @@ SM0XMX Ronny,2400059,Private,Disabled
 SK0AR,2400911,Private,Disabled
 Radio Test,98,Group,Disabled
 BM Parrot,9990,Private,Disabled
+Disconnect,4000,Group,Disabled
