@@ -1,5 +1,19 @@
 # Changelog
 
+## 2025-05-xx (SM0RGM)
+
+* Anpassad för CPS/FW R2025.03.23.01
+
+## 2025-05-04 (SM0RGM)
+
+* Ändrade kanaler per zon:
+    * Simplex
+        * +APRS ISS 145.825 MHz FM
+
+## 2025-03-09 (SM0RGM)
+
+SM0RUX/Pontus är silent key. Tänk gärna på Cancerfonden tel. 010-199 10 10
+
 ## 2024-10-04 (SM0RGM)
 
 * Ändrade kanaler per zon:
