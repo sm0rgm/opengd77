@@ -26,7 +26,7 @@ Om du vill bidra med något så är du naturligtvis välkommen att göra så ant
 
 Alla repeatrar i Sverige som kan köra DMR eller FM är inkluderade (källa: [sk6ba.se](https://sk6ba.se/repeater/karta/)). Även repeatrar som kör exempelvis C4FM och FM finns med. Repeatrarna är indelade distriksvis. Tyvärr finns det så många repeatrar i sjätte och sjunde distrikten att alla inte får plats i scanning-listan (Anytone).
 
-Dessa filer är testade med CPS Version: R2024.04.12.01
+Dessa filer är testade med CPS Version: R2025.03.23.01
 
 ### Vad ändras vid konverteringen från Anytone till OpenGD77?
 
@@ -81,6 +81,19 @@ Om du får felmeddelande när du försöker importera mina CSV-filer, gör då s
 ### Uppdatera befintlig kodplugg
 
 Om du bara vill uppdatera din radio med kanaler, zoner och talgrupper men låta resterande inställning vara som de är kan du, istället öppna din befintliga kodplugg i CPS och sedan gå till File -> CSV -> Import CSV och välj sedan mappen CSV. 
+## Suffix i repeaternamn
+
+För att indikera typ av repeater eller vilket nätverk den är ansluten mot finns numera en eller flera bokstäver som suffix till repeaterns namn. Om repeatern är ansluten till Brandmeister för DMR eller är en lokal FM-repeater utan anslutning till reflektornätverk finns ingen bokstav angiven. Bokstäverna betyder:
+
+L = Link (simplex)
+A = AllstarLink
+S = SVXlink
+E = EchoLink
+H = Hotspot (DMR)
+F = FreeDMR / FinDMR
++ = DMR+ / DMR Plus
+I = IRLP / ircDDB
+P = HAMphone
 
 ### Tema
 
@@ -92,7 +105,10 @@ Stort tack till SA0BUX Lars för betatestning, tips, råd och inte minst för l�
 
 Stort tack till SM0IKR Göran för betatestning, tips, råd och förslag.
 
-73's de SM0RGM Stefan es SM0RUX Pontus
+## SM0RUX/Pontus silent key
 
-2024-04-14
+Den 9 mars 2025 gick SM0RUX/Pontus silent key efter några års kamp mot cancern. Kodpluggen är och förblir "SM0RUX kodplugg" men underhålls fortsatt av mig, SM0RGM/Stefan. Kodpluggen är gratis att använda men vill du ge ett bidrag så tänk gärna på Cancerfonden tel. 010-199 10 10.
 
+73's de SM0RGM Stefan
+
+2025-05-04
