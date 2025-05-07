@@ -471,7 +471,6 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 470,Imatra,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
 471,Iisalmi 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.567,27.183,Yes
 472,Iisalmi 2,Analogue,	434.75000,	433.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.567,27.183,Yes
-473,Imatra,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
 474,Jakobstad 1 E,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.6985,22.71,Yes
 475,Jakobstad 2,Analogue,	434.70000,	432.70000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.6716,22.6857,Yes
 476,Jamijarvi,Analogue,	434.97500,	432.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.7765,22.7225,Yes
