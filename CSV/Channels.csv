@@ -373,64 +373,64 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 372,Fredrikstad 1,Analogue,	145.68750,	145.08750,12.5,,,,,,,,85.4,85.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.2708,10.9583,Yes
 373,Fredrikstad 2,Analogue,	434.70000,	432.70000,12.5,,,,,,,,85.4,85.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.2314,10.9629,Yes
 374,Fredrikstad 3 L,Analogue,	145.25000,	145.25000,12.5,,,,,,,,100.0,100.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.2292,10.9583,Yes
-375,Fredrikstad 5,Digital,	434.71250,	432.71250,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-376,Gardermoen,Analogue,	145.73750,	145.13750,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,60.3958,11.125,Yes
-377,Gaustatoppen,Analogue,	145.61250,	145.01250,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.8546,8.6492,Yes
-378,Geilo,Digital,	434.65000,	432.65000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-379,Grimstad I,Digital,	434.70000,	432.70000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,58.3824,8.5917,Yes
-380,Harpefoss,Analogue,	145.72500,	145.12500,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,61.5208,9.7916,Yes
-381,Harstad,Digital,	434.80000,	432.80000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,68.2166,16.0083,Yes
-382,Haugesund 1,Digital,	434.75000,	432.75000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.3542,5.2916,Yes
-383,Haugesund 2,Analogue,	434.67500,	432.67500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-384,Haueheia,Digital,	145.16250,	145.76250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-385,Hokasen 1,Analogue,	145.71250,	145.11250,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.3241,12.1382,Yes
-386,Hokasen 2,Analogue,	434.65000,	432.65000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.3241,12.1382,Yes
-387,Hokasen 3,Analogue,	434.56250,	432.56250,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.3241,12.1382,Yes
-388,Holmestrand,Digital,	434.65000,	432.65000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.546,10.196,Yes
-389,Horten,Analogue,	145.62500,	145.02500,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.3958,10.375,Yes
-390,Hovassfjell,Analogue,	145.60000,	145.00000,12.5,,,,,,,,192.8,192.8,Disabled,Master,No,No,No,120,Off,No,No,None,58.9951,7.7347,Yes
-391,Hurdal,Digital,	434.87500,	432.87500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-392,Hvittingen,Digital,	434.65000,	432.65000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-393,Kirkenes,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,69.6952,30.0582,Yes
-394,Kolsas,Digital,	434.92500,	432.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-395,Kongsberg 1,Digital,	434.83750,	432.83750,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.6709,9.5748,Yes
-396,Kongsberg 2,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,59.6875,9.5416,Yes
-397,Kongsberg 3,Analogue,	434.62500,	432.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,59.6709,9.5748,Yes
-398,Kongsvinger 1,Analogue,	434.62500,	432.62500,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.1726,11.988,Yes
-399,Kongsvinger 2,Digital,	434.71250,	432.71250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-400,Kongsvinger 3,Analogue,	145.65000,	145.05000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.1726,11.988,Yes
-401,Kragero,Analogue,	434.85000,	432.85000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,58.8679,9.3805,Yes
-402,Kristianstad 3,Analogue,	145.75000,	145.15000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-403,Kvelde,Analogue,	434.67500,	432.67500,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.198,9.958,Yes
-404,Larvik L,Analogue,	144.65000,	144.65000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,59.0208,9.9583,Yes
-405,Meloy LE,Analogue,	145.28750,	145.28750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.8798,13.7178,Yes
-406,Mo_i_Rana 1,Digital,	434.85000,	432.85000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-407,Mo_i_Rana 2 E,Analogue,	145.67500,	145.07500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-408,Mo_i_Rana 3 LI,Analogue,	145.33750,	145.33750,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-409,Moi,Digital,	434.86250,	432.86250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-410,Mosjoen 1,Digital,	434.82500,	432.82500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,65.8719,13.193,Yes
-411,Mosjoen 2 LI,Analogue,	145.28750,	145.28750,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,65.8369,13.1934,Yes
-412,Moss E,Analogue,	145.66250,	145.06250,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.3674,10.8129,Yes
-413,Narvik,Digital,	434.75000,	432.75000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-414,Nesna LI,Analogue,	433.95000,	433.95000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,66.2464,12.9318,Yes
-415,Nesodden,Analogue,	145.67500,	145.07500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,59.8233,10.65,Yes
-416,Notodden 1,Analogue,	434.92500,	432.92500,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.4792,9.0416,Yes
-417,Notodden 2 L,Analogue,	144.67500,	144.67500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,59.4792,9.0416,Yes
-418,Oppdal,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.5625,9.7083,Yes
-419,Oppegaard,Digital,	434.75000,	432.75000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-420,Oslo 1 E,Analogue,	434.97500,	432.97500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,59.782,10.41,Yes
-421,Oslo 2,Analogue,	434.77500,	432.77500,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.896,10.792,Yes
-422,Oslo 3,Analogue,	145.60000,	145.00000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.979,10.708,Yes
-423,Ralingen 1,Analogue,	434.82500,	432.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,59.9375,11.0417,Yes
-424,Ralingen 2 E,Analogue,	145.76250,	145.16250,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.9375,11.0417,Yes
-425,Raufoss,Digital,	434.97500,	432.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-426,Risor,Analogue,	145.77500,	145.17500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,120,Off,No,No,None,58.7675,9.1058,Yes
-427,Rodoy LI,Analogue,	145.31250,	145.31250,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,66.7199,12.7777,Yes
-428,Roverkollen,Digital,	434.88750,	432.88750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-429,Sandefjord 1,Analogue,	434.80000,	432.80000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.039,10.202,Yes
-430,Sandefjord 2,Analogue,	145.75000,	145.15000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.1458,10.2083,Yes
-431,Sandnessjoen 1,Digital,	434.80000,	432.80000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,66.0062,12.6179,Yes
-432,Sandnessjoen 2,Analogue,	145.72500,	145.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.9143,12.1817,Yes
+375,Gardermoen,Analogue,	145.73750,	145.13750,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,60.3958,11.125,Yes
+376,Gaustatoppen,Analogue,	145.61250,	145.01250,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.8546,8.6492,Yes
+377,Geilo,Digital,	434.65000,	432.65000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+378,Grimstad I,Digital,	434.70000,	432.70000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,58.3824,8.5917,Yes
+379,Harpefoss,Analogue,	145.72500,	145.12500,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,61.5208,9.7916,Yes
+380,Harstad,Digital,	434.80000,	432.80000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,68.2166,16.0083,Yes
+381,Haugesund 1,Digital,	434.75000,	432.75000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.3542,5.2916,Yes
+382,Haugesund 2,Analogue,	434.67500,	432.67500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+383,Haueheia,Digital,	145.16250,	145.76250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+384,Hokasen 1,Analogue,	145.71250,	145.11250,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.3241,12.1382,Yes
+385,Hokasen 2,Analogue,	434.65000,	432.65000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.3241,12.1382,Yes
+386,Hokasen 3,Analogue,	434.56250,	432.56250,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.3241,12.1382,Yes
+387,Holmestrand,Digital,	434.65000,	432.65000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.546,10.196,Yes
+388,Horten,Analogue,	145.62500,	145.02500,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.3958,10.375,Yes
+389,Hovassfjell,Analogue,	145.60000,	145.00000,12.5,,,,,,,,192.8,192.8,Disabled,Master,No,No,No,120,Off,No,No,None,58.9951,7.7347,Yes
+390,Hurdal,Digital,	434.87500,	432.87500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+391,Hvittingen,Digital,	434.65000,	432.65000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+392,Kirkenes,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,69.6952,30.0582,Yes
+393,Kolsas,Digital,	434.92500,	432.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+394,Kongsberg 1,Digital,	434.83750,	432.83750,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.6709,9.5748,Yes
+395,Kongsberg 2,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,59.6875,9.5416,Yes
+396,Kongsberg 3,Analogue,	434.62500,	432.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,59.6709,9.5748,Yes
+397,Kongsvinger 1,Analogue,	434.62500,	432.62500,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.1726,11.988,Yes
+398,Kongsvinger 2,Digital,	434.71250,	432.71250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+399,Kongsvinger 3,Analogue,	145.65000,	145.05000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,60.1726,11.988,Yes
+400,Kragero,Analogue,	434.85000,	432.85000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,58.8679,9.3805,Yes
+401,Kristianstad 3,Analogue,	145.75000,	145.15000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+402,Kvelde,Analogue,	434.67500,	432.67500,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.198,9.958,Yes
+403,Larvik L,Analogue,	144.65000,	144.65000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,59.0208,9.9583,Yes
+404,Meloy LE,Analogue,	145.28750,	145.28750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.8798,13.7178,Yes
+405,Mo_i_Rana 1,Digital,	434.85000,	432.85000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+406,Mo_i_Rana 2 E,Analogue,	145.67500,	145.07500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+407,Mo_i_Rana 3 LI,Analogue,	145.33750,	145.33750,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+408,Moi,Digital,	434.86250,	432.86250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+409,Mosjoen 1,Digital,	434.82500,	432.82500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,65.8719,13.193,Yes
+410,Mosjoen 2 LI,Analogue,	145.28750,	145.28750,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,65.8369,13.1934,Yes
+411,Moss E,Analogue,	145.66250,	145.06250,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.3674,10.8129,Yes
+412,Narvik,Digital,	434.75000,	432.75000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+413,Nesna LI,Analogue,	433.95000,	433.95000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,66.2464,12.9318,Yes
+414,Nesodden,Analogue,	145.67500,	145.07500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,59.8233,10.65,Yes
+415,Notodden 1,Analogue,	434.92500,	432.92500,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.4792,9.0416,Yes
+416,Notodden 2 L,Analogue,	144.67500,	144.67500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,59.4792,9.0416,Yes
+417,Oppdal,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.5625,9.7083,Yes
+418,Oppegaard,Digital,	434.75000,	432.75000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+419,Oslo 1 E,Analogue,	434.97500,	432.97500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,59.782,10.41,Yes
+420,Oslo 2,Analogue,	434.77500,	432.77500,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.896,10.792,Yes
+421,Oslo 3,Analogue,	145.60000,	145.00000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.979,10.708,Yes
+422,Ralingen 1,Analogue,	434.82500,	432.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,59.9375,11.0417,Yes
+423,Ralingen 2 E,Analogue,	145.76250,	145.16250,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,59.9375,11.0417,Yes
+424,Raufoss,Digital,	434.97500,	432.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+425,Risor,Analogue,	145.77500,	145.17500,12.5,,,,,,,,107.2,107.2,Disabled,Master,No,No,No,120,Off,No,No,None,58.7675,9.1058,Yes
+426,Rodoy LI,Analogue,	145.31250,	145.31250,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,66.7199,12.7777,Yes
+427,Roverkollen,Digital,	434.88750,	432.88750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+428,Sandefjord 1,Analogue,	434.80000,	432.80000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.039,10.202,Yes
+429,Sandefjord 2,Analogue,	145.75000,	145.15000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.1458,10.2083,Yes
+430,Sandnessjoen 1,Digital,	434.80000,	432.80000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,66.0062,12.6179,Yes
+431,Sandnessjoen 2,Analogue,	145.72500,	145.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.9143,12.1817,Yes
+432,Sarpsborg,Digital,	434.81250,	432.81250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
 433,Skien 1,Digital,	434.51250,	432.51250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,59.235,9.699,Yes
 434,Skien 2,Analogue,	145.65000,	145.05000,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.235,9.699,Yes
 435,Skien 3,Analogue,	434.61250,	432.61250,12.5,,,,,,,,74.4,74.4,Disabled,Master,No,No,No,120,Off,No,No,None,59.235,9.699,Yes
@@ -471,121 +471,122 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 470,Imatra,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
 471,Iisalmi 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.567,27.183,Yes
 472,Iisalmi 2,Analogue,	434.75000,	433.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.567,27.183,Yes
-474,Jakobstad 1 E,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.6985,22.71,Yes
-475,Jakobstad 2,Analogue,	434.70000,	432.70000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.6716,22.6857,Yes
-476,Jamijarvi,Analogue,	434.97500,	432.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.7765,22.7225,Yes
-477,Jamsa 1,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-478,Jamsa 2,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.8958,25.2917,Yes
-479,Jamsankoski,Analogue,	434.70000,	433.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.9375,25.2083,Yes
-480,Jarvenpaa,Analogue,	434.65000,	432.65000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,60.478,25.083,Yes
-481,Joensuu 1,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.6,29.767,Yes
-482,Joensuu 2,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.6,29.767,Yes
-483,Joensuu 3,Analogue,	145.72500,	145.12500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,62.5784,29.83,Yes
-484,Jomala,Digital,	434.55000,	432.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,60.13,19.93,Yes
-485,Joutseno,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.0937,28.3808,Yes
-486,Jyvaskyla 1,Digital,	434.53750,	432.53750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-487,Jyvaskyla 2,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.233,25.733,Yes
-488,Jyvaskyla 3,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.2708,25.7083,Yes
-489,Jyvaskyla 4,Analogue,	434.72500,	432.72500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,62.2358,25.7208,Yes
-490,Kaarina,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.391,22.376,Yes
-491,Kajaani 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.2034,27.7352,Yes
-492,Kajaani 2,Analogue,	434.67500,	433.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.2034,27.7352,Yes
-493,Kankaanpaa,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.803,22.39,Yes
-494,Kauhajoki,Analogue,	434.87500,	433.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.424,22.17,Yes
-495,Kaustinen,Analogue,	434.90000,	432.90000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.533,23.7,Yes
-496,Kemijarvi,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.7071,27.4475,Yes
-497,Kiukainen,Analogue,	145.72500,	145.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.217,22.083,Yes
-498,Kokkola 1,Digital,	145.57500,	144.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-499,Kokkola 2,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.844,23.128,Yes
-500,Kokkola 3,Analogue,	434.80000,	432.80000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.844,23.128,Yes
-501,Kokemaki,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.25,22.35,Yes
-502,Kolari,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,67.5649,24.2236,Yes
-503,Koski,Analogue,	434.92500,	432.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.6989,23.0332,Yes
-504,Kotka 1,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-505,Kotka 2,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.485,26.866,Yes
-506,Kouvola 1,Digital,	434.58750,	432.58750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-507,Kouvola 2,Analogue,	434.85000,	433.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.867,26.7,Yes
-508,Kuopio,Analogue,	145.60000,	145.00000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,62.9,27.683,Yes
-509,Kuusamo 1,Analogue,	145.72500,	145.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.9433,29.1022,Yes
-510,Kuusamo 2,Analogue,	434.72500,	433.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.9433,29.1022,Yes
-511,Kuusankoski,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.91,26.624,Yes
-512,Lahti 1,Digital,	434.55000,	432.55000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,60.991,25.6739,Yes
-513,Lahti 2,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.9787,25.6487,Yes
-514,Lahti 3,Analogue,	434.60000,	432.60000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,60.9787,25.6487,Yes
-515,Lappeenranta 1,Digital,	434.53750,	432.53750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,61.0661,28.2411,Yes
-516,Lappeenranta 2,Analogue,	434.77500,	432.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.058,28.2093,Yes
-517,Lapua,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.96,23.03,Yes
-518,Lohja 1,Digital,	145.57500,	144.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-519,Lohja 2,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.3477,24.0581,Yes
-520,Lohja 3,Analogue,	434.72500,	433.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.25,24.083,Yes
-521,Loviisa 1,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.456,26.222,Yes
-522,Loviisa 2,Analogue,	434.70000,	433.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.456,26.222,Yes
-523,Mikkeli 1,Analogue,	434.75000,	433.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.683,27.25,Yes
-524,Mikkeli 2,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.683,27.25,Yes
-525,Narpio 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.474,21.336,Yes
-526,Narpio 2,Analogue,	434.80000,	433.20000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.474,21.336,Yes
-527,Nivala,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.923,24.958,Yes
-528,Nurmes,Analogue,	145.67500,	145.07500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,63.544,29.145,Yes
-529,Nurmijarvi,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-530,Oulu 1,Digital,	145.63750,	145.03750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-531,Oulu 2,Digital,	434.57500,	432.57500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-532,Oulu 3,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.0158,25.4965,Yes
-533,Oulu 4,Analogue,	434.75000,	432.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.901,25.5421,Yes
-534,Oulu 5,Analogue,	434.97500,	432.97500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,120,Off,No,No,None,65.0602,25.473,Yes
-535,Parainen,Analogue,	434.85000,	433.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.302,22.291,Yes
-536,Pattijoki,Analogue,	434.92500,	432.92500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,120,Off,No,No,None,64.6848,24.5692,Yes
-537,Pieksamaki 1,Analogue,	434.80000,	432.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.3,27.133,Yes
-538,Pieksamaki 2,Analogue,	145.67500,	145.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.3,27.133,Yes
-539,Pihtipudas,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.376,25.575,Yes
-540,Pori,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-541,Porvoo 1,Digital,	434.53750,	432.53750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-542,Porvoo 2,Analogue,	434.87500,	432.87500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.398,25.669,Yes
-543,Raasepori,Digital,	434.55000,	432.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-544,Rauma,Analogue,	434.67500,	433.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.134,21.505,Yes
-545,Riihimaki,Analogue,	434.67500,	432.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.7565,24.8001,Yes
-546,Rovaniemi 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.6087,25.8401,Yes
-547,Rovaniemi 2,Analogue,	434.70000,	432.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.6087,25.8401,Yes
-548,Saarijarvi F,Digital,	434.51250,	432.51250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,62.7583,25.6024,Yes
-549,Salo 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.4,23.12,Yes
-550,Salo 2,Analogue,	434.70000,	433.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.4,23.12,Yes
-551,Savonlinna,Analogue,	145.62500,	145.02500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,120,Off,No,No,None,61.83,28.83,Yes
-552,Seinajoki 1,Analogue,	434.67500,	432.67500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,62.798,22.832,Yes
-553,Seinajoki 2,Analogue,	145.67500,	145.07500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,62.798,22.832,Yes
-554,Tampere 1,Digital,	145.57500,	144.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-555,Tampere 2 F,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,61.4536,23.8323,Yes
-556,Tampere 3 F,Digital,	434.55000,	432.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,61.5077,23.6207,Yes
-557,Tampere 4,Analogue,	145.75000,	145.15000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,61.505,23.743,Yes
-558,Tampere 5,Analogue,	434.85000,	432.85000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,61.505,23.7433,Yes
-559,Tervola 1,Digital,	145.78750,	145.18750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-560,Tervola 2,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.1167,24.6989,Yes
-561,Teuva,Analogue,	434.92500,	433.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.483,21.733,Yes
-562,Tornio,Analogue,	434.77500,	433.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.768,24.1821,Yes
-563,Turku,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.4792,22.2083,Yes
-564,Uusikaupunki,Analogue,	434.82500,	433.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.801,21.411,Yes
-565,Vaasa 1,Analogue,	434.75000,	432.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.1,21.6,Yes
-566,Vaasa 2,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.1,21.6,Yes
-567,Vantaa 1,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-568,Vantaa 2,Analogue,	434.90000,	432.90000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.285,25.05,Yes
-569,Vesijako,Analogue,	434.80000,	432.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.3542,25.0417,Yes
-570,Viitasaari,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-571,Virrat,Digital,	434.90000,	432.90000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,62.27,23.7,Yes
-572,Ylivieska 1,Digital,	145.58750,	144.98750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-573,Ylivieska 2,Analogue,	434.60000,	432.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.083,24.55,Yes
-574,Yllastunturi,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,67.5667,24.07,Yes
-575,Aarhus,Digital,	434.57500,	432.57500,,12,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,56.125,10.1666,Yes
-576,Aalborg 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,56.8888,9.819,Yes
-577,Aalborg 2,Analogue,	434.96250,	432.96250,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,57.0529,9.9174,Yes
-578,Aalborg 3 +,Digital,	434.68750,	432.68750,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,56.8888,9.819,Yes
-579,Bandholm,Analogue,	145.65000,	145.05000,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,54.837,11.48,Yes
-580,Dutterhoj,Analogue,	434.92500,	432.92500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,55.8249,11.5361,Yes
-581,Esbjerg 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.4792,8.4583,Yes
-582,Esbjerg 2,Analogue,	434.96250,	432.96250,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.5111,8.4384,Yes
-583,Eskebjerg,Analogue,	434.80000,	432.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.712,11.306,Yes
-584,Fredericia,Analogue,	145.78750,	145.18750,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,120,Off,No,No,None,55.5,9.6666,Yes
-585,Frederikshavn 1,Digital,	434.71250,	432.71250,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-586,Frederikshavn 2,Analogue,	434.97500,	432.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-587,Frederikshavn 3,Analogue,	434.82500,	432.82500,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,57.4375,10.5417,Yes
-588,Fredrikstad 4,Digital,	434.62500,	432.62500,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+473,Jakobstad 1 E,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.6985,22.71,Yes
+474,Jakobstad 2,Analogue,	434.70000,	432.70000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.6716,22.6857,Yes
+475,Jamijarvi,Analogue,	434.97500,	432.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.7765,22.7225,Yes
+476,Jamsa 1,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+477,Jamsa 2,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.8958,25.2917,Yes
+478,Jamsankoski,Analogue,	434.70000,	433.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.9375,25.2083,Yes
+479,Jarvenpaa,Analogue,	434.65000,	432.65000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,60.478,25.083,Yes
+480,Joensuu 1,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.6,29.767,Yes
+481,Joensuu 2,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.6,29.767,Yes
+482,Joensuu 3,Analogue,	145.72500,	145.12500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,62.5784,29.83,Yes
+483,Jomala,Digital,	434.55000,	432.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,60.13,19.93,Yes
+484,Joutseno,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.0937,28.3808,Yes
+485,Jyvaskyla 1,Digital,	434.53750,	432.53750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+486,Jyvaskyla 2,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.233,25.733,Yes
+487,Jyvaskyla 3,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.2708,25.7083,Yes
+488,Jyvaskyla 4,Analogue,	434.72500,	432.72500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,62.2358,25.7208,Yes
+489,Kaarina,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.391,22.376,Yes
+490,Kajaani 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.2034,27.7352,Yes
+491,Kajaani 2,Analogue,	434.67500,	433.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.2034,27.7352,Yes
+492,Kankaanpaa,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.803,22.39,Yes
+493,Kauhajoki,Analogue,	434.87500,	433.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.424,22.17,Yes
+494,Kaustinen,Analogue,	434.90000,	432.90000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.533,23.7,Yes
+495,Kemijarvi,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.7071,27.4475,Yes
+496,Kiukainen,Analogue,	145.72500,	145.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.217,22.083,Yes
+497,Kokkola 1,Digital,	145.57500,	144.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+498,Kokkola 2,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.844,23.128,Yes
+499,Kokkola 3,Analogue,	434.80000,	432.80000,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,63.844,23.128,Yes
+500,Kokemaki,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.25,22.35,Yes
+501,Kolari,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,67.5649,24.2236,Yes
+502,Koski,Analogue,	434.92500,	432.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.6989,23.0332,Yes
+503,Kotka 1,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+504,Kotka 2,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.485,26.866,Yes
+505,Kouvola 1,Digital,	434.58750,	432.58750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+506,Kouvola 2,Analogue,	434.85000,	433.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.867,26.7,Yes
+507,Kuopio,Analogue,	145.60000,	145.00000,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,62.9,27.683,Yes
+508,Kuusamo 1,Analogue,	145.72500,	145.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.9433,29.1022,Yes
+509,Kuusamo 2,Analogue,	434.72500,	433.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.9433,29.1022,Yes
+510,Kuusankoski,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.91,26.624,Yes
+511,Lahti 1,Digital,	434.55000,	432.55000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,60.991,25.6739,Yes
+512,Lahti 2,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.9787,25.6487,Yes
+513,Lahti 3,Analogue,	434.60000,	432.60000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,60.9787,25.6487,Yes
+514,Lappeenranta 1,Digital,	434.53750,	432.53750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,61.0661,28.2411,Yes
+515,Lappeenranta 2,Analogue,	434.77500,	432.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.058,28.2093,Yes
+516,Lapua,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.96,23.03,Yes
+517,Lohja 1,Digital,	145.57500,	144.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+518,Lohja 2,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.3477,24.0581,Yes
+519,Lohja 3,Analogue,	434.72500,	433.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.25,24.083,Yes
+520,Loviisa 1,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.456,26.222,Yes
+521,Loviisa 2,Analogue,	434.70000,	433.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.456,26.222,Yes
+522,Mikkeli 1,Analogue,	434.75000,	433.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.683,27.25,Yes
+523,Mikkeli 2,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.683,27.25,Yes
+524,Narpio 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.474,21.336,Yes
+525,Narpio 2,Analogue,	434.80000,	433.20000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.474,21.336,Yes
+526,Nivala,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.923,24.958,Yes
+527,Nurmes,Analogue,	145.67500,	145.07500,12.5,,,,,,,,118.8,118.8,Disabled,Master,No,No,No,120,Off,No,No,None,63.544,29.145,Yes
+528,Nurmijarvi,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+529,Oulu 1,Digital,	145.63750,	145.03750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+530,Oulu 2,Digital,	434.57500,	432.57500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+531,Oulu 3,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.0158,25.4965,Yes
+532,Oulu 4,Analogue,	434.75000,	432.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.901,25.5421,Yes
+533,Oulu 5,Analogue,	434.97500,	432.97500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,120,Off,No,No,None,65.0602,25.473,Yes
+534,Parainen,Analogue,	434.85000,	433.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.302,22.291,Yes
+535,Pattijoki,Analogue,	434.92500,	432.92500,12.5,,,,,,,,114.8,114.8,Disabled,Master,No,No,No,120,Off,No,No,None,64.6848,24.5692,Yes
+536,Pieksamaki 1,Analogue,	434.80000,	432.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.3,27.133,Yes
+537,Pieksamaki 2,Analogue,	145.67500,	145.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.3,27.133,Yes
+538,Pihtipudas,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.376,25.575,Yes
+539,Pori,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+540,Porvoo 1,Digital,	434.53750,	432.53750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+541,Porvoo 2,Analogue,	434.87500,	432.87500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.398,25.669,Yes
+542,Raasepori,Digital,	434.55000,	432.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+543,Rauma,Analogue,	434.67500,	433.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.134,21.505,Yes
+544,Riihimaki,Analogue,	434.67500,	432.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.7565,24.8001,Yes
+545,Rovaniemi 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.6087,25.8401,Yes
+546,Rovaniemi 2,Analogue,	434.70000,	432.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.6087,25.8401,Yes
+547,Saarijarvi F,Digital,	434.51250,	432.51250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,62.7583,25.6024,Yes
+548,Salo 1,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.4,23.12,Yes
+549,Salo 2,Analogue,	434.70000,	433.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.4,23.12,Yes
+550,Savonlinna,Analogue,	145.62500,	145.02500,12.5,,,,,,,,103.5,103.5,Disabled,Master,No,No,No,120,Off,No,No,None,61.83,28.83,Yes
+551,Seinajoki 1,Analogue,	434.67500,	432.67500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,62.798,22.832,Yes
+552,Seinajoki 2,Analogue,	145.67500,	145.07500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,62.798,22.832,Yes
+553,Tampere 1,Digital,	145.57500,	144.97500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+554,Tampere 2 F,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,61.4536,23.8323,Yes
+555,Tampere 3 F,Digital,	434.55000,	432.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,61.5077,23.6207,Yes
+556,Tampere 4,Analogue,	145.75000,	145.15000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,61.505,23.743,Yes
+557,Tampere 5,Analogue,	434.85000,	432.85000,12.5,,,,,,,,123.0,123.0,Disabled,Master,No,No,No,120,Off,No,No,None,61.505,23.7433,Yes
+558,Tervola 1,Digital,	145.78750,	145.18750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+559,Tervola 2,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,66.1167,24.6989,Yes
+560,Teuva,Analogue,	434.92500,	433.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,62.483,21.733,Yes
+561,Tornio,Analogue,	434.77500,	433.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.768,24.1821,Yes
+562,Turku,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.4792,22.2083,Yes
+563,Uusikaupunki,Analogue,	434.82500,	433.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.801,21.411,Yes
+564,Vaasa 1,Analogue,	434.75000,	432.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.1,21.6,Yes
+565,Vaasa 2,Analogue,	145.75000,	145.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,63.1,21.6,Yes
+566,Vantaa 1,Digital,	434.52500,	432.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+567,Vantaa 2,Analogue,	434.90000,	432.90000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,60.285,25.05,Yes
+568,Vesijako,Analogue,	434.80000,	432.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,61.3542,25.0417,Yes
+569,Viitasaari,Digital,	434.56250,	432.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+570,Virrat,Digital,	434.90000,	432.90000,,0,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,62.27,23.7,Yes
+571,Ylivieska 1,Digital,	145.58750,	144.98750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+572,Ylivieska 2,Analogue,	434.60000,	432.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.083,24.55,Yes
+573,Yllastunturi,Analogue,	434.65000,	433.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,67.5667,24.07,Yes
+574,Aarhus,Digital,	434.57500,	432.57500,,12,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,56.125,10.1666,Yes
+575,Aalborg 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,56.8888,9.819,Yes
+576,Aalborg 2,Analogue,	434.96250,	432.96250,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,57.0529,9.9174,Yes
+577,Aalborg 3 +,Digital,	434.68750,	432.68750,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,56.8888,9.819,Yes
+578,Bandholm,Analogue,	145.65000,	145.05000,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,54.837,11.48,Yes
+579,Dutterhoj,Analogue,	434.92500,	432.92500,12.5,,,,,,,,110.9,110.9,Disabled,Master,No,No,No,120,Off,No,No,None,55.8249,11.5361,Yes
+580,Esbjerg 1,Analogue,	145.65000,	145.05000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.4792,8.4583,Yes
+581,Esbjerg 2,Analogue,	434.96250,	432.96250,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.5111,8.4384,Yes
+582,Eskebjerg,Analogue,	434.80000,	432.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.712,11.306,Yes
+583,Fredericia,Analogue,	145.78750,	145.18750,12.5,,,,,,,,127.3,127.3,Disabled,Master,No,No,No,120,Off,No,No,None,55.5,9.6666,Yes
+584,Frederikshavn 1,Digital,	434.71250,	432.71250,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+585,Frederikshavn 2,Analogue,	434.97500,	432.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+586,Frederikshavn 3,Analogue,	434.82500,	432.82500,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,57.4375,10.5417,Yes
+587,Fredrikstad 4,Digital,	434.62500,	432.62500,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+588,Fredrikstad 5,Digital,	434.71250,	432.71250,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
 589,Gilleleje,Digital,	434.85000,	432.85000,,14,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,56.1013,12.3217,Yes
 590,Gorlose,Digital,	434.70000,	432.70000,,14,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,55.8712,12.1938,Yes
 591,Grenaa,Analogue,	145.66250,	145.06250,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,56.438,10.875,Yes
@@ -617,264 +618,263 @@ Channel Number,Channel Name,Channel Type,Rx Frequency,Tx Frequency,Bandwidth (kH
 617,Svendborg 1,Analogue,	145.75000,	145.15000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,55.099,10.567,Yes
 618,Svendborg 2 E,Analogue,	434.87500,	432.87500,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,55.099,10.567,Yes
 619,Saby,Analogue,	145.77500,	145.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,57.3314,10.5104,Yes
-620,Sarpsborg,Digital,	434.81250,	432.81250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-621,Skjoldbjerg,Analogue,	145.73750,	145.13750,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,56.7083,9.0833,Yes
-622,Soerup,Analogue,	145.68750,	145.08750,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.2083,11.9166,Yes
-623,Them,Analogue,	145.63750,	145.03750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,56.2083,8.1666,Yes
-624,Torphoej,Analogue,	145.77500,	145.17500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.875,9.3333,Yes
-625,Vejby,Analogue,	145.72500,	145.12500,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,56.063,12.125,Yes
-626,Vejle,Analogue,	434.92500,	432.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.7076,9.5368,Yes
-627,Vejrhoj,Analogue,	145.60000,	145.00000,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.8076,11.3951,Yes
-628,Vestjylland,Analogue,	145.60000,	145.00000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,56.0843,8.3977,Yes
-629,Vissenbjerg,Analogue,	145.70000,	145.10000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,55.3958,10.125,Yes
-630,Vodskov,Digital,	434.67500,	432.67500,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,57.114,10.031,Yes
-631,Vongshoj,Analogue,	145.61250,	145.01250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.1042,8.9583,Yes
-632,Ydby,Analogue,	145.70000,	145.10000,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,56.6666,8.3333,Yes
-633,Yding,Digital,	434.67500,	432.67500,,12,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-634,Yding 2,Analogue,	434.75000,	432.75000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,55.9925,9.7958,Yes
-635,Yding 3,Analogue,	145.67500,	145.07500,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,55.9583,9.75,Yes
-636,Yding 4,Digital,	434.51250,	432.51250,,12,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,55.9583,9.75,Yes
-637,Ostermarie,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.1458,14.7917,Yes
-638,pi-star,Digital,	433.01250,	433.01250,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
-639,openSPOT2,Digital,	433.90000,	433.90000,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
-640,Crossbandsrptr,Analogue,	434.42500,	434.42500,12.5,,,,,,,,None,91.5,Disabled,P1,No,No,No,120,Off,No,No,None,0,0,Yes
-641,XIL,Digital,	434.47500,	434.47500,,1,1,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
-642,	145.500,Analogue,	145.50000,	145.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-643,	433.500,Analogue,	433.50000,	433.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-644,	145.375,Digital,	145.37500,	145.37500,,1,1,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-645,	433.450,Digital,	433.45000,	433.45000,,1,1,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-646,	145.225,Analogue,	145.22500,	145.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-647,	145.450,Analogue,	145.45000,	145.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-648,HS DMR,Digital,	434.47500,	434.47500,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
-649,APRS 1,Analogue,	144.80000,	144.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-650,APRS 2,Analogue,	432.50000,	432.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-651,APRS US,Analogue,	144.39000,	144.39000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-652,APRS ISS,Analogue,	145.82500,	145.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-653,PMR 1,Analogue,	446.00625,	446.00625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-654,PMR 2,Analogue,	446.01875,	446.01875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-655,PMR 3,Analogue,	446.03125,	446.03125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-656,PMR 4,Analogue,	446.04375,	446.04375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-657,PMR 5,Analogue,	446.05625,	446.05625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-658,PMR 6,Analogue,	446.06875,	446.06875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-659,PMR 7,Analogue,	446.08125,	446.08125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-660,PMR 8,Analogue,	446.09375,	446.09375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-661,PMR 9,Analogue,	446.10625,	446.10625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-662,PMR 10,Analogue,	446.11875,	446.11875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-663,PMR 11,Analogue,	446.13125,	446.13125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-664,PMR 12,Analogue,	446.14375,	446.14375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-665,PMR 13,Analogue,	446.15625,	446.15625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-666,PMR 14,Analogue,	446.16875,	446.16875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-667,PMR 15,Analogue,	446.18125,	446.18125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-668,PMR 16,Analogue,	446.19375,	446.19375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-669,	156.000,Analogue,	156.00000,	156.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-670,SRBR 1,Analogue,	444.60000,	444.60000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-671,SRBR 2,Analogue,	444.65000,	444.65000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-672,SRBR 3,Analogue,	444.80000,	444.80000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-673,SRBR 4,Analogue,	444.82500,	444.82500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-674,SRBR 5,Analogue,	444.85000,	444.85000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-675,SRBR 6,Analogue,	444.87500,	444.87500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-676,SRBR 7,Analogue,	444.92500,	444.92500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-677,SRBR 8,Analogue,	444.97500,	444.97500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-678,LPD 1,Analogue,	433.07500,	433.07500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-679,LPD 2,Analogue,	433.10000,	433.10000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-680,LPD 3,Analogue,	433.12500,	433.12500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-681,LPD 4,Analogue,	433.15000,	433.15000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-682,LPD 5,Analogue,	433.17500,	433.17500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-683,LPD 6,Analogue,	433.20000,	433.20000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-684,LPD 7,Analogue,	433.22500,	433.22500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-685,LPD 8,Analogue,	433.25000,	433.25000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-686,LPD 9,Analogue,	433.27500,	433.27500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-687,LPD 10,Analogue,	433.30000,	433.30000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-688,LPD 11,Analogue,	433.32500,	433.32500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-689,LPD 12,Analogue,	433.35000,	433.35000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-690,LPD 13,Analogue,	433.37500,	433.37500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-691,LPD 14,Analogue,	433.40000,	433.40000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-692,LPD 15,Analogue,	433.42500,	433.42500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-693,LPD 16,Analogue,	433.45000,	433.45000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-694,LPD 17,Analogue,	433.47500,	433.47500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-695,LPD 18,Analogue,	433.50000,	433.50000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-696,LPD 19,Analogue,	433.52500,	433.52500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-697,LPD 20,Analogue,	433.55000,	433.55000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-698,LPD 21,Analogue,	433.57500,	433.57500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-699,LPD 22,Analogue,	433.60000,	433.60000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-700,LPD 23,Analogue,	433.62500,	433.62500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-701,LPD 24,Analogue,	433.65000,	433.65000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-702,LPD 25,Analogue,	433.67500,	433.67500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-703,LPD 26,Analogue,	433.70000,	433.70000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-704,LPD 27,Analogue,	433.72500,	433.72500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-705,LPD 28,Analogue,	433.75000,	433.75000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-706,LPD 29,Analogue,	433.77500,	433.77500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-707,LPD 30,Analogue,	433.80000,	433.80000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-708,LPD 31,Analogue,	433.82500,	433.82500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-709,LPD 32,Analogue,	433.85000,	433.85000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-710,LPD 33,Analogue,	433.87500,	433.87500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-711,LPD 34,Analogue,	433.90000,	433.90000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-712,LPD 35,Analogue,	433.92500,	433.92500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-713,LPD 36,Analogue,	433.95000,	433.95000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-714,LPD 37,Analogue,	433.97500,	433.97500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-715,LPD 38,Analogue,	434.00000,	434.00000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-716,LPD 39,Analogue,	434.02500,	434.02500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-717,LPD 40,Analogue,	434.05000,	434.05000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-718,LPD 41,Analogue,	434.07500,	434.07500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-719,LPD 42,Analogue,	434.10000,	434.10000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-720,LPD 43,Analogue,	434.12500,	434.12500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-721,LPD 44,Analogue,	434.15000,	434.15000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-722,LPD 45,Analogue,	434.17500,	434.17500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-723,LPD 46,Analogue,	434.20000,	434.20000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-724,LPD 47,Analogue,	434.22500,	434.22500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-725,LPD 48,Analogue,	434.25000,	434.25000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-726,LPD 49,Analogue,	434.27500,	434.27500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-727,LPD 50,Analogue,	434.30000,	434.30000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-728,LPD 51,Analogue,	434.32500,	434.32500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-729,LPD 52,Analogue,	434.35000,	434.35000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-730,LPD 53,Analogue,	434.37500,	434.37500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-731,LPD 54,Analogue,	434.40000,	434.40000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-732,LPD 55,Analogue,	434.42500,	434.42500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-733,LPD 56,Analogue,	434.45000,	434.45000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-734,LPD 57,Analogue,	434.47500,	434.47500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-735,LPD 58,Analogue,	434.50000,	434.50000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-736,LPD 59,Analogue,	434.52500,	434.52500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-737,LPD 60,Analogue,	434.55000,	434.55000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-738,LPD 61,Analogue,	434.57500,	434.57500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-739,LPD 62,Analogue,	434.60000,	434.60000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-740,LPD 63,Analogue,	434.62500,	434.62500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-741,LPD 64,Analogue,	434.65000,	434.65000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-742,LPD 65,Analogue,	434.67500,	434.67500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-743,LPD 66,Analogue,	434.70000,	434.70000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-744,LPD 67,Analogue,	434.72500,	434.72500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-745,LPD 68,Analogue,	434.75000,	434.75000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-746,LPD 69,Analogue,	434.77500,	434.77500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-747,Jakt-01,Analogue,	155.42500,	155.42500,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-748,Jakt-02,Analogue,	155.47500,	155.47500,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-749,Jakt-03,Analogue,	155.50000,	155.50000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-750,Jakt-04,Analogue,	155.52500,	155.52500,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-751,Jakt-05,Analogue,	156.00000,	156.00000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-752,Jakt-06,Analogue,	155.40000,	155.40000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-753,Jakt-07,Analogue,	155.45000,	155.45000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-754,Marin-VHF 01,Analogue,	160.65000,	156.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-755,Marin-VHF 02,Analogue,	160.70000,	156.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-756,Marin-VHF 03,Analogue,	160.75000,	156.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-757,Marin-VHF 04,Analogue,	160.80000,	156.20000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-758,Marin-VHF 05,Analogue,	160.85000,	156.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-759,Marin-VHF 06,Analogue,	156.30000,	156.30000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-760,Marin-VHF 07,Analogue,	160.95000,	156.35000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-761,Marin-VHF 08,Analogue,	156.40000,	156.40000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-762,Marin-VHF 09,Analogue,	156.45000,	156.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-763,Marin-VHF 10,Analogue,	156.50000,	156.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-764,Marin-VHF 11,Analogue,	156.55000,	156.55000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-765,Marin-VHF 12,Analogue,	156.60000,	156.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-766,Marin-VHF 13,Analogue,	156.65000,	156.65000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-767,Marin-VHF 14,Analogue,	156.70000,	156.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-768,Marin-VHF 15,Analogue,	156.75000,	156.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-769,Marin-VHF 16,Analogue,	156.80000,	156.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-770,Marin-VHF 17,Analogue,	156.85000,	156.86000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-771,Marin-VHF 18,Analogue,	161.50000,	156.90000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-772,Marin-VHF 19,Analogue,	161.55000,	156.95000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-773,Marin-VHF 20,Analogue,	161.60000,	157.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-774,Marin-VHF 21,Analogue,	161.65000,	157.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-775,Marin-VHF 22,Analogue,	161.70000,	157.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-776,Marin-VHF 23,Analogue,	161.75000,	157.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-777,Marin-VHF 24,Analogue,	161.80000,	157.20000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-778,Marin-VHF 25,Analogue,	161.85000,	157.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-779,Marin-VHF 26,Analogue,	161.90000,	157.30000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-780,Marin-VHF 27,Analogue,	161.95000,	157.35000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-781,Marin-VHF 28,Analogue,	162.00000,	157.40000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-782,Marin-VHF 60,Analogue,	160.62500,	156.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-783,Marin-VHF 61,Analogue,	160.67500,	156.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-784,Marin-VHF 62,Analogue,	160.72500,	156.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-785,Marin-VHF 63,Analogue,	160.77500,	156.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-786,Marin-VHF 64,Analogue,	160.82500,	156.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-787,Marin-VHF 65,Analogue,	160.87500,	156.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-788,Marin-VHF 66,Analogue,	160.92500,	156.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-789,Marin-VHF 67,Analogue,	156.37500,	156.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-790,Marin-VHF 68,Analogue,	156.42500,	156.42500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-791,Marin-VHF 69,Analogue,	156.47500,	156.47500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-792,Marin-VHF 70,Analogue,	156.52500,	156.52500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-793,Marin-VHF 71,Analogue,	156.57500,	156.57500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-794,Marin-VHF 72,Analogue,	156.62500,	156.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-795,Marin-VHF 73,Analogue,	156.67500,	156.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-796,Marin-VHF 74,Analogue,	156.72500,	156.72500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-797,Marin-VHF 75,Analogue,	156.77500,	156.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-798,Marin-VHF 76,Analogue,	156.82500,	156.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-799,Marin-VHF 77,Analogue,	156.87500,	156.87500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-800,Marin-VHF 78,Analogue,	161.52500,	156.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-801,Marin-VHF 79,Analogue,	161.75700,	160.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-802,Marin-VHF 80,Analogue,	161.62500,	157.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-803,Marin-VHF 81,Analogue,	161.67500,	157.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-804,Marin-VHF 82,Analogue,	161.72500,	157.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-805,Marin-VHF 83,Analogue,	161.77500,	157.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-806,Marin-VHF 84,Analogue,	156.67500,	156.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-807,Marin-VHF 85,Analogue,	161.87500,	157.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-808,Marin-VHF 86,Analogue,	161.92500,	157.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-809,Marin-VHF 87,Analogue,	161.97500,	157.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-810,Marin-VHF 88,Analogue,	162.02500,	157.42500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-811,Marin-VHF L1,Analogue,	155.50000,	155.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-812,Marin-VHF L2,Analogue,	155.52500,	155.52500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-813,Marin-VHF F1,Analogue,	155.62500,	155.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-814,Marin-VHF F2,Analogue,	155.77500,	155.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-815,Marin-VHF F3,Analogue,	155.82500,	155.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-816,Leeuwarden,Digital,	438.40000,	430.80000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-817,Hoorn,Digital,	438.01250,	430.41250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-818,Zwolle,Digital,	438.15000,	430.55000,,4,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-819,Almere,Digital,	438.02500,	430.42500,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-820,Deventer,Digital,	430.36250,	431.96250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-821,Den Haag,Digital,	438.20000,	430.60000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-822,Ijsselstein,Digital,	438.35000,	430.75000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-823,Nijmegen,Digital,	438.31250,	430.71250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-824,Groesbeek 1,Digital,	145.71250,	145.11250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-825,Groesbeek 2,Digital,	438.41250,	430.81250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-826,Dordrecht,Digital,	438.08750,	430.48750,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-827,Gennep,Digital,	438.02500,	430.42500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-828,Breda,Digital,	430.32500,	431.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-829,Bladel,Digital,	438.30000,	430.70000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-830,Maastricht,Digital,	438.15000,	430.55000,,3,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-831,Heerlen - Noord,Digital,	438.26250,	430.66250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-832,Kerkrade,Digital,	438.37500,	430.77500,,4,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-833,NDR Fuchsberg,Digital,	439.82500,	430.42500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-834,FMT Bredstedt,Digital,	438.55000,	430.95000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-835,Silberstedt,Digital,	439.92500,	430.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-836,FMT Schleswig,Digital,	438.53750,	430.93750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-837,Kiel 1,Digital,	438.42500,	430.82500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-838,Kiel 2,Digital,	439.48750,	431.88750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-839,Heiligenhafen,Digital,	438.87500,	431.27500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-840,FMT Heide,Digital,	438.33750,	430.73750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-841,Kronprinzenkoog,Digital,	439.97500,	430.57500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-842,Itzehoe,Digital,	439.87500,	430.47500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-843,Lubeck 1,Digital,	439.95000,	430.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-844,Lubeck 2,Digital,	438.41250,	430.81250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-845,Ludersdorf,Digital,	439.96250,	430.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-846,Ahrensburg,Digital,	439.50000,	431.90000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-847,Grosshansdorf,Digital,	439.52500,	431.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-848,Lutjensee,Digital,	438.52500,	430.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-849,Hamburg-Lokstedt,Digital,	439.56250,	431.96250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-850,Stade,Digital,	438.80000,	431.20000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-851,Hamburg,Digital,	438.92500,	431.32500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-852,Bremervorde,Digital,	438.46250,	430.86250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-853,Geesthacht,Digital,	438.55000,	430.95000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-854,Basedow,Digital,	438.83750,	431.23750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-855,Winsen,Digital,	439.03750,	431.43750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-856,Buchholz,Digital,	438.68375,	431.03750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-857,Luneburg,Digital,	438.50000,	430.90000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-858,Bremerhaven,Digital,	439.88750,	430.48750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-859,Dammer Berge,Digital,	439.52500,	431.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-860,Osnabruck 1,Digital,	145.71250,	145.11250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-861,Osnabruck 2,Digital,	439.95000,	430.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-862,Osnabruck 3,Digital,	439.56250,	431.96250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-863,Rheine,Digital,	438.51250,	430.91250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-864,Herford,Digital,	439.01250,	431.41250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-865,Schoppingen,Digital,	439.48750,	431.88750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-866,Legden,Digital,	438.46250,	430.86250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-867,Stadtlohn,Digital,	438.36250,	430.76250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-868,Rees,Digital,	438.42500,	430.82500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-869,Oresundslinjen 1,Analogue,	409.50000,	409.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-870,Oresundslinjen 2,Analogue,	409.25000,	409.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-871,Oresundslinjen 3,Analogue,	440.02500,	440.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-872,Oresundslinjen 4,Analogue,	440.60000,	440.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-873,Oresundslinjen 5,Analogue,	460.15000,	460.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-874,Oresundslinjen 6,Analogue,	468.37500,	468.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
-875,Akureyri,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.7302,-18.0072,Yes
-876,Bruaras,Analogue,	145.75000,	145.15000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,64.4857,-22.1238,Yes
-877,Burfell,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.075,-19.8219,Yes
-878,Reykjavik 1,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.2388,-21.4647,Yes
-879,Reykjavik 2,Analogue,	145.65000,	145.05000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,63.9763,-21.635,Yes
-880,Svalbard,Analogue,	145.60000,	145.00000,12.5,,,,,,,,91.5,91.5,Disabled,Master,No,No,No,120,Off,No,No,None,78.125,16.5833,Yes
+620,Skjoldbjerg,Analogue,	145.73750,	145.13750,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,56.7083,9.0833,Yes
+621,Soerup,Analogue,	145.68750,	145.08750,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.2083,11.9166,Yes
+622,Them,Analogue,	145.63750,	145.03750,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,56.2083,8.1666,Yes
+623,Torphoej,Analogue,	145.77500,	145.17500,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.875,9.3333,Yes
+624,Vejby,Analogue,	145.72500,	145.12500,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,56.063,12.125,Yes
+625,Vejle,Analogue,	434.92500,	432.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.7076,9.5368,Yes
+626,Vejrhoj,Analogue,	145.60000,	145.00000,12.5,,,,,,,,82.5,82.5,Disabled,Master,No,No,No,120,Off,No,No,None,55.8076,11.3951,Yes
+627,Vestjylland,Analogue,	145.60000,	145.00000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,56.0843,8.3977,Yes
+628,Vissenbjerg,Analogue,	145.70000,	145.10000,12.5,,,,,,,,71.9,71.9,Disabled,Master,No,No,No,120,Off,No,No,None,55.3958,10.125,Yes
+629,Vodskov,Digital,	434.67500,	432.67500,,11,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,57.114,10.031,Yes
+630,Vongshoj,Analogue,	145.61250,	145.01250,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.1042,8.9583,Yes
+631,Ydby,Analogue,	145.70000,	145.10000,12.5,,,,,,,,94.8,94.8,Disabled,Master,No,No,No,120,Off,No,No,None,56.6666,8.3333,Yes
+632,Yding,Digital,	434.67500,	432.67500,,12,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+633,Yding 2,Analogue,	434.75000,	432.75000,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,55.9925,9.7958,Yes
+634,Yding 3,Analogue,	145.67500,	145.07500,12.5,,,,,,,,77.0,77.0,Disabled,Master,No,No,No,120,Off,No,No,None,55.9583,9.75,Yes
+635,Yding 4,Digital,	434.51250,	432.51250,,12,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,55.9583,9.75,Yes
+636,Ostermarie,Analogue,	145.65000,	145.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,55.1458,14.7917,Yes
+637,pi-star,Digital,	433.01250,	433.01250,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
+638,openSPOT2,Digital,	433.90000,	433.90000,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
+639,Crossbandsrptr,Analogue,	434.42500,	434.42500,12.5,,,,,,,,None,91.5,Disabled,P1,No,No,No,120,Off,No,No,None,0,0,Yes
+640,XIL,Digital,	434.47500,	434.47500,,1,1,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
+641,	145.500,Analogue,	145.50000,	145.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+642,	433.500,Analogue,	433.50000,	433.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+643,	145.375,Digital,	145.37500,	145.37500,,1,1,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+644,	433.450,Digital,	433.45000,	433.45000,,1,1,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+645,	145.225,Analogue,	145.22500,	145.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+646,	145.450,Analogue,	145.45000,	145.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+647,HS DMR,Digital,	434.47500,	434.47500,,1,2,None,Default,None,Text,Text,,,,P1,No,No,No,120,Off,No,No,None,0,0,Yes
+648,APRS 1,Analogue,	144.80000,	144.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,APRS1,0,0,Yes
+649,APRS 2,Analogue,	432.50000,	432.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,APRS1,0,0,Yes
+650,APRS US,Analogue,	144.39000,	144.39000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,APRS1,0,0,Yes
+651,APRS ISS,Analogue,	145.82500,	145.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+652,PMR 1,Analogue,	446.00625,	446.00625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+653,PMR 2,Analogue,	446.01875,	446.01875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+654,PMR 3,Analogue,	446.03125,	446.03125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+655,PMR 4,Analogue,	446.04375,	446.04375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+656,PMR 5,Analogue,	446.05625,	446.05625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+657,PMR 6,Analogue,	446.06875,	446.06875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+658,PMR 7,Analogue,	446.08125,	446.08125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+659,PMR 8,Analogue,	446.09375,	446.09375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+660,PMR 9,Analogue,	446.10625,	446.10625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+661,PMR 10,Analogue,	446.11875,	446.11875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+662,PMR 11,Analogue,	446.13125,	446.13125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+663,PMR 12,Analogue,	446.14375,	446.14375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+664,PMR 13,Analogue,	446.15625,	446.15625,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+665,PMR 14,Analogue,	446.16875,	446.16875,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+666,PMR 15,Analogue,	446.18125,	446.18125,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+667,PMR 16,Analogue,	446.19375,	446.19375,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+668,	156.000,Analogue,	156.00000,	156.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+669,SRBR 1,Analogue,	444.60000,	444.60000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+670,SRBR 2,Analogue,	444.65000,	444.65000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+671,SRBR 3,Analogue,	444.80000,	444.80000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+672,SRBR 4,Analogue,	444.82500,	444.82500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+673,SRBR 5,Analogue,	444.85000,	444.85000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+674,SRBR 6,Analogue,	444.87500,	444.87500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+675,SRBR 7,Analogue,	444.92500,	444.92500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+676,SRBR 8,Analogue,	444.97500,	444.97500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+677,LPD 1,Analogue,	433.07500,	433.07500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+678,LPD 2,Analogue,	433.10000,	433.10000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+679,LPD 3,Analogue,	433.12500,	433.12500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+680,LPD 4,Analogue,	433.15000,	433.15000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+681,LPD 5,Analogue,	433.17500,	433.17500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+682,LPD 6,Analogue,	433.20000,	433.20000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+683,LPD 7,Analogue,	433.22500,	433.22500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+684,LPD 8,Analogue,	433.25000,	433.25000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+685,LPD 9,Analogue,	433.27500,	433.27500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+686,LPD 10,Analogue,	433.30000,	433.30000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+687,LPD 11,Analogue,	433.32500,	433.32500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+688,LPD 12,Analogue,	433.35000,	433.35000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+689,LPD 13,Analogue,	433.37500,	433.37500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+690,LPD 14,Analogue,	433.40000,	433.40000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+691,LPD 15,Analogue,	433.42500,	433.42500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+692,LPD 16,Analogue,	433.45000,	433.45000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+693,LPD 17,Analogue,	433.47500,	433.47500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+694,LPD 18,Analogue,	433.50000,	433.50000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+695,LPD 19,Analogue,	433.52500,	433.52500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+696,LPD 20,Analogue,	433.55000,	433.55000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+697,LPD 21,Analogue,	433.57500,	433.57500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+698,LPD 22,Analogue,	433.60000,	433.60000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+699,LPD 23,Analogue,	433.62500,	433.62500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+700,LPD 24,Analogue,	433.65000,	433.65000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+701,LPD 25,Analogue,	433.67500,	433.67500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+702,LPD 26,Analogue,	433.70000,	433.70000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+703,LPD 27,Analogue,	433.72500,	433.72500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+704,LPD 28,Analogue,	433.75000,	433.75000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+705,LPD 29,Analogue,	433.77500,	433.77500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+706,LPD 30,Analogue,	433.80000,	433.80000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+707,LPD 31,Analogue,	433.82500,	433.82500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+708,LPD 32,Analogue,	433.85000,	433.85000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+709,LPD 33,Analogue,	433.87500,	433.87500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+710,LPD 34,Analogue,	433.90000,	433.90000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+711,LPD 35,Analogue,	433.92500,	433.92500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+712,LPD 36,Analogue,	433.95000,	433.95000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+713,LPD 37,Analogue,	433.97500,	433.97500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+714,LPD 38,Analogue,	434.00000,	434.00000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+715,LPD 39,Analogue,	434.02500,	434.02500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+716,LPD 40,Analogue,	434.05000,	434.05000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+717,LPD 41,Analogue,	434.07500,	434.07500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+718,LPD 42,Analogue,	434.10000,	434.10000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+719,LPD 43,Analogue,	434.12500,	434.12500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+720,LPD 44,Analogue,	434.15000,	434.15000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+721,LPD 45,Analogue,	434.17500,	434.17500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+722,LPD 46,Analogue,	434.20000,	434.20000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+723,LPD 47,Analogue,	434.22500,	434.22500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+724,LPD 48,Analogue,	434.25000,	434.25000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+725,LPD 49,Analogue,	434.27500,	434.27500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+726,LPD 50,Analogue,	434.30000,	434.30000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+727,LPD 51,Analogue,	434.32500,	434.32500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+728,LPD 52,Analogue,	434.35000,	434.35000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+729,LPD 53,Analogue,	434.37500,	434.37500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+730,LPD 54,Analogue,	434.40000,	434.40000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+731,LPD 55,Analogue,	434.42500,	434.42500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+732,LPD 56,Analogue,	434.45000,	434.45000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+733,LPD 57,Analogue,	434.47500,	434.47500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+734,LPD 58,Analogue,	434.50000,	434.50000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+735,LPD 59,Analogue,	434.52500,	434.52500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+736,LPD 60,Analogue,	434.55000,	434.55000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+737,LPD 61,Analogue,	434.57500,	434.57500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+738,LPD 62,Analogue,	434.60000,	434.60000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+739,LPD 63,Analogue,	434.62500,	434.62500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+740,LPD 64,Analogue,	434.65000,	434.65000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+741,LPD 65,Analogue,	434.67500,	434.67500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+742,LPD 66,Analogue,	434.70000,	434.70000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+743,LPD 67,Analogue,	434.72500,	434.72500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+744,LPD 68,Analogue,	434.75000,	434.75000,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+745,LPD 69,Analogue,	434.77500,	434.77500,12.5,,,,,,,,None,62.5,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+746,Jakt-01,Analogue,	155.42500,	155.42500,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+747,Jakt-02,Analogue,	155.47500,	155.47500,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+748,Jakt-03,Analogue,	155.50000,	155.50000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+749,Jakt-04,Analogue,	155.52500,	155.52500,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+750,Jakt-05,Analogue,	156.00000,	156.00000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+751,Jakt-06,Analogue,	155.40000,	155.40000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+752,Jakt-07,Analogue,	155.45000,	155.45000,25,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+753,Marin-VHF 01,Analogue,	160.65000,	156.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+754,Marin-VHF 02,Analogue,	160.70000,	156.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+755,Marin-VHF 03,Analogue,	160.75000,	156.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+756,Marin-VHF 04,Analogue,	160.80000,	156.20000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+757,Marin-VHF 05,Analogue,	160.85000,	156.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+758,Marin-VHF 06,Analogue,	156.30000,	156.30000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+759,Marin-VHF 07,Analogue,	160.95000,	156.35000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+760,Marin-VHF 08,Analogue,	156.40000,	156.40000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+761,Marin-VHF 09,Analogue,	156.45000,	156.45000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+762,Marin-VHF 10,Analogue,	156.50000,	156.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+763,Marin-VHF 11,Analogue,	156.55000,	156.55000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+764,Marin-VHF 12,Analogue,	156.60000,	156.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+765,Marin-VHF 13,Analogue,	156.65000,	156.65000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+766,Marin-VHF 14,Analogue,	156.70000,	156.70000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+767,Marin-VHF 15,Analogue,	156.75000,	156.75000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+768,Marin-VHF 16,Analogue,	156.80000,	156.80000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+769,Marin-VHF 17,Analogue,	156.85000,	156.86000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+770,Marin-VHF 18,Analogue,	161.50000,	156.90000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+771,Marin-VHF 19,Analogue,	161.55000,	156.95000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+772,Marin-VHF 20,Analogue,	161.60000,	157.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+773,Marin-VHF 21,Analogue,	161.65000,	157.05000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+774,Marin-VHF 22,Analogue,	161.70000,	157.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+775,Marin-VHF 23,Analogue,	161.75000,	157.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+776,Marin-VHF 24,Analogue,	161.80000,	157.20000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+777,Marin-VHF 25,Analogue,	161.85000,	157.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+778,Marin-VHF 26,Analogue,	161.90000,	157.30000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+779,Marin-VHF 27,Analogue,	161.95000,	157.35000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+780,Marin-VHF 28,Analogue,	162.00000,	157.40000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+781,Marin-VHF 60,Analogue,	160.62500,	156.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+782,Marin-VHF 61,Analogue,	160.67500,	156.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+783,Marin-VHF 62,Analogue,	160.72500,	156.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+784,Marin-VHF 63,Analogue,	160.77500,	156.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+785,Marin-VHF 64,Analogue,	160.82500,	156.22500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+786,Marin-VHF 65,Analogue,	160.87500,	156.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+787,Marin-VHF 66,Analogue,	160.92500,	156.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+788,Marin-VHF 67,Analogue,	156.37500,	156.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+789,Marin-VHF 68,Analogue,	156.42500,	156.42500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+790,Marin-VHF 69,Analogue,	156.47500,	156.47500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+791,Marin-VHF 70,Analogue,	156.52500,	156.52500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+792,Marin-VHF 71,Analogue,	156.57500,	156.57500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+793,Marin-VHF 72,Analogue,	156.62500,	156.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+794,Marin-VHF 73,Analogue,	156.67500,	156.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+795,Marin-VHF 74,Analogue,	156.72500,	156.72500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+796,Marin-VHF 75,Analogue,	156.77500,	156.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+797,Marin-VHF 76,Analogue,	156.82500,	156.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+798,Marin-VHF 77,Analogue,	156.87500,	156.87500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+799,Marin-VHF 78,Analogue,	161.52500,	156.92500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+800,Marin-VHF 79,Analogue,	161.75700,	160.97500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+801,Marin-VHF 80,Analogue,	161.62500,	157.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+802,Marin-VHF 81,Analogue,	161.67500,	157.07500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+803,Marin-VHF 82,Analogue,	161.72500,	157.12500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+804,Marin-VHF 83,Analogue,	161.77500,	157.17500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+805,Marin-VHF 84,Analogue,	156.67500,	156.67500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+806,Marin-VHF 85,Analogue,	161.87500,	157.27500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+807,Marin-VHF 86,Analogue,	161.92500,	157.32500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+808,Marin-VHF 87,Analogue,	161.97500,	157.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+809,Marin-VHF 88,Analogue,	162.02500,	157.42500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+810,Marin-VHF L1,Analogue,	155.50000,	155.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+811,Marin-VHF L2,Analogue,	155.52500,	155.52500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+812,Marin-VHF F1,Analogue,	155.62500,	155.62500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+813,Marin-VHF F2,Analogue,	155.77500,	155.77500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+814,Marin-VHF F3,Analogue,	155.82500,	155.82500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+815,Leeuwarden,Digital,	438.40000,	430.80000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+816,Hoorn,Digital,	438.01250,	430.41250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+817,Zwolle,Digital,	438.15000,	430.55000,,4,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+818,Almere,Digital,	438.02500,	430.42500,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+819,Deventer,Digital,	430.36250,	431.96250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+820,Den Haag,Digital,	438.20000,	430.60000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+821,Ijsselstein,Digital,	438.35000,	430.75000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+822,Nijmegen,Digital,	438.31250,	430.71250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+823,Groesbeek 1,Digital,	145.71250,	145.11250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+824,Groesbeek 2,Digital,	438.41250,	430.81250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+825,Dordrecht,Digital,	438.08750,	430.48750,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+826,Gennep,Digital,	438.02500,	430.42500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+827,Breda,Digital,	430.32500,	431.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+828,Bladel,Digital,	438.30000,	430.70000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+829,Maastricht,Digital,	438.15000,	430.55000,,3,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+830,Heerlen - Noord,Digital,	438.26250,	430.66250,,2,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+831,Kerkrade,Digital,	438.37500,	430.77500,,4,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+832,NDR Fuchsberg,Digital,	439.82500,	430.42500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+833,FMT Bredstedt,Digital,	438.55000,	430.95000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+834,Silberstedt,Digital,	439.92500,	430.52500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+835,FMT Schleswig,Digital,	438.53750,	430.93750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+836,Kiel 1,Digital,	438.42500,	430.82500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+837,Kiel 2,Digital,	439.48750,	431.88750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+838,Heiligenhafen,Digital,	438.87500,	431.27500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+839,FMT Heide,Digital,	438.33750,	430.73750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+840,Kronprinzenkoog,Digital,	439.97500,	430.57500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+841,Itzehoe,Digital,	439.87500,	430.47500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+842,Lubeck 1,Digital,	439.95000,	430.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+843,Lubeck 2,Digital,	438.41250,	430.81250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+844,Ludersdorf,Digital,	439.96250,	430.56250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+845,Ahrensburg,Digital,	439.50000,	431.90000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+846,Grosshansdorf,Digital,	439.52500,	431.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+847,Lutjensee,Digital,	438.52500,	430.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+848,Hamburg-Lokstedt,Digital,	439.56250,	431.96250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+849,Stade,Digital,	438.80000,	431.20000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+850,Hamburg,Digital,	438.92500,	431.32500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+851,Bremervorde,Digital,	438.46250,	430.86250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+852,Geesthacht,Digital,	438.55000,	430.95000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+853,Basedow,Digital,	438.83750,	431.23750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+854,Winsen,Digital,	439.03750,	431.43750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+855,Buchholz,Digital,	438.68375,	431.03750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+856,Luneburg,Digital,	438.50000,	430.90000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+857,Bremerhaven,Digital,	439.88750,	430.48750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+858,Dammer Berge,Digital,	439.52500,	431.92500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+859,Osnabruck 1,Digital,	145.71250,	145.11250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+860,Osnabruck 2,Digital,	439.95000,	430.55000,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+861,Osnabruck 3,Digital,	439.56250,	431.96250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+862,Rheine,Digital,	438.51250,	430.91250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+863,Herford,Digital,	439.01250,	431.41250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+864,Schoppingen,Digital,	439.48750,	431.88750,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+865,Legden,Digital,	438.46250,	430.86250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+866,Stadtlohn,Digital,	438.36250,	430.76250,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+867,Rees,Digital,	438.42500,	430.82500,,1,2,None,Default,None,Text,Text,,,,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+868,Oresundslinjen 1,Analogue,	409.50000,	409.50000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+869,Oresundslinjen 2,Analogue,	409.25000,	409.25000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+870,Oresundslinjen 3,Analogue,	440.02500,	440.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+871,Oresundslinjen 4,Analogue,	440.60000,	440.60000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+872,Oresundslinjen 5,Analogue,	460.15000,	460.15000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+873,Oresundslinjen 6,Analogue,	468.37500,	468.37500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,0,0,Yes
+874,Akureyri,Analogue,	145.62500,	145.02500,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,65.7302,-18.0072,Yes
+875,Bruaras,Analogue,	145.75000,	145.15000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,64.4857,-22.1238,Yes
+876,Burfell,Analogue,	145.70000,	145.10000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.075,-19.8219,Yes
+877,Reykjavik 1,Analogue,	145.60000,	145.00000,12.5,,,,,,,,None,None,Disabled,Master,No,No,No,120,Off,No,No,None,64.2388,-21.4647,Yes
+878,Reykjavik 2,Analogue,	145.65000,	145.05000,12.5,,,,,,,,88.5,88.5,Disabled,Master,No,No,No,120,Off,No,No,None,63.9763,-21.635,Yes
+879,Svalbard,Analogue,	145.60000,	145.00000,12.5,,,,,,,,91.5,91.5,Disabled,Master,No,No,No,120,Off,No,No,None,78.125,16.5833,Yes
