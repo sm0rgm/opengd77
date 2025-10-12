@@ -1,5 +1,26 @@
 # Changelog
 
+## 2025\-10\-11 (SM0RGM)
+
+* Uppdaterad mot SK6BA/SSA repeaterdatabas 2025-10-11 02:01:46
+* Ändrade kanaler per zon:
+    * SM0
+        * Vastberga 1 VS ändrad till Vastberga 1 V
+        * \+ Mariefred VS 145.7000 MHz FM
+        * Vastberga 1 V ändrad till Vastberga 1 VS
+        * \- Vasterhaninge V 145.70000 MHz 
+    * SM4
+        * Borlange 1 U ändrad till Borlange 1 US
+    * SM5
+        * \+ Norrkopin 6 VLSE 145.2375 MHz FM
+    * SM7 Ovriga
+        * \- Farjestaden VLSE 145.23750 MHz 
+    * SM7 Skane
+        * \- Lund 1 V 145.77500 MHz 
+
+codeplugadmin 1.1 (2025-07-26)
+
+
 ## 2025-09-20 (SM0RGM)
 
 * Uppdaterad mot SK6BA/SSA repeaterdatabas 2025-09-20 04:55:34
