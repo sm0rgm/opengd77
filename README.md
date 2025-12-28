@@ -105,6 +105,11 @@ P = HAMphone
 
 För de radiotyper som har stöd för tema (f n MD-9600, RT-90, MD-UV380/RT3S, DM-1701/RT-84, MD-2017/RT-82) så har jag inkluderat mitt eget tema. Filen heter SM0RGM.gtm. Eftersom jag tycker det är mer vilsamt för ögonen med svart bakgrund har detta tema det och olika färger har använts för olika funktioner.
 
+### FAQ 
+
+* Varför är inte repeatrarnas benämning dess callsign, t ex "SK7ABC" utan de står med ortsnamn? Repeaterns callsign eller kanalnummer är praktiskt om du är på din hemmaort och känner till vilka repeatrar som finns. Kodpluggen är gjord för att man ska kunna använda den när man reser och kommer till en ny ort. Som SM0:a så säger mig SK7ABC ingenting men ortsnamnet "Helsingborg" t ex ger mig en geografisk indikation om att repeatern finns i närheten om jag t ex befinner mig i Helsingborstrakten.
+
+#
 ### Tack
 
 Stort tack till SA0BUX Lars för betatestning, tips, råd och inte minst för lån av en radio med OpenGD77 så att jag kunde testa kodpluggen!
