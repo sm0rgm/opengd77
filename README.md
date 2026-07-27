@@ -2,7 +2,7 @@
 
 ## Copyright
 
-© 2019-2024 by SM0RUX Pontus Falk
+© 2019-2026 by SM0RUX Pontus Falk & SM0RGM Stefan Helander
 
 Filerna är tillgängliga under [GPLv3](https://github.com/sm0rux/opengd77/blob/master/LICENSE).
 
@@ -89,17 +89,17 @@ För att underlätta för instegsamatörer har numera kanalnamnet en indikering 
 
 Bokstäverna betyder:
 
-V = VHF 2m
-U = UHF 70 cm
-L = Link (simplex)
-A = AllstarLink
-S = SVXlink
-E = EchoLink
-H = Hotspot (DMR)
-F = FreeDMR / FinDMR
-+ = DMR+ / DMR Plus
-I = IRLP / ircDDB
-P = HAMphone
+* V = VHF 2m
+* U = UHF 70 cm
+* L = Link (simplex)
+* A = AllstarLink
+* S = SVXlink
+* E = EchoLink
+* H = Hotspot (DMR)
+* F = FreeDMR / FinDMR
+* \+ = DMR+ / DMR Plus
+* I = IRLP / ircDDB
+* P = HAMphone
 
 ### Tema
 
